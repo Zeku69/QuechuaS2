@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>silla14.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\silla14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>217</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiyarina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>47</ymin>
+			<xmax>211</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

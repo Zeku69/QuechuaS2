@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>martillo23.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\martillo23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>261</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>martillu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>5</ymin>
+			<xmax>225</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

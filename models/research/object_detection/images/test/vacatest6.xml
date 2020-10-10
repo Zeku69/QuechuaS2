@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vacatest6.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\test\vacatest6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>5</ymin>
+			<xmax>276</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

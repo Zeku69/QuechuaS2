@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cuchillo22.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\cuchillo22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kuchillu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>13</ymin>
+			<xmax>175</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

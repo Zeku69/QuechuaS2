@@ -1,0 +1,49 @@
+item {
+  id: 1
+  name: 'tutuma'
+}
+
+item {
+  id: 2
+  name: 'kuchillu'
+}
+
+item {
+  id: 3
+  name: 'michi'
+}
+
+item {
+  id: 4
+  name: 'qillqana'
+}
+
+item {
+  id: 5
+  name: 'kicharina'
+}
+
+item {
+  id: 6
+  name: 'allqu'
+}
+
+item {
+  id: 7
+  name: 'martillu'
+}
+
+item {
+  id: 8
+  name: 'tiyarina'
+}
+
+item {
+  id: 9
+  name: 'tihiras'
+}
+
+item {
+  id: 10
+  name: 'waka'
+}

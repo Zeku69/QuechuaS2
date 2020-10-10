@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>vaca20.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\vaca20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>17</ymin>
+			<xmax>409</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

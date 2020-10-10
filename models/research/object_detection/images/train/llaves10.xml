@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>llaves10.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\llaves10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kicharina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>30</ymin>
+			<xmax>263</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

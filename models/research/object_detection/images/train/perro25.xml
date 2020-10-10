@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>perro25.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\perro25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>allqu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>118</ymin>
+			<xmax>435</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

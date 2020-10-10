@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lapicero14.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\lapicero14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qillqana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>173</ymin>
+			<xmax>586</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

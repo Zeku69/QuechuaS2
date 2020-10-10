@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tijeras25.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\tijeras25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tihiras</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>20</ymin>
+			<xmax>204</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

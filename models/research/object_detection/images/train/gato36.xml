@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gato36.jpg</filename>
+	<path>C:\Tensorflow\workspace\training_demo\images\train\gato36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>michi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>2</ymin>
+			<xmax>495</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
